@@ -12,7 +12,7 @@ Game Title
 
 # How to download:
 
-1. Download link is encrypted with Base64 , decode Base64 at https://www.base64decode.org/
+1. Download link is encrypted with Base64 , decode Base64 at [Base64 Decode](https://www.base64decode.org/)
 
 2. Extract the game into a folder of your choice
 
