@@ -9,9 +9,7 @@ layout: default
 
 * * *
 
-*   # [Test1](./test1.md)
-
-*   # [Test2](/pages/test2.md)
+*   # [The Forest](/pages/theforest.md)
 
 * * *
 
