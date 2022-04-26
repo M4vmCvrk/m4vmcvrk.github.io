@@ -24,7 +24,7 @@ Gang Beasts
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTVd1eWR2WGk3aFdLeWNxa3ZRVmFwVVpvQ3F1RUpkSnovdmlldz91c3A9c2hhcmluZw==
+soon
 
 Rar password: M4vm1337
 
