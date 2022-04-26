@@ -9,7 +9,9 @@ layout: default
 
 * * *
 
-*   # [The Forest](/pages/theforest.md)
+*   ### [The Forest](/pages/theforest.md)
+
+*   ### [Ultimate Chicken Horse](/pages/ultimatechickenhorse.md)
 
 * * *
 
