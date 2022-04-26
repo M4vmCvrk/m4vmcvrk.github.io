@@ -17,6 +17,8 @@ layout: default
 
 *   ### [Far Cry 3](/pages/farcry3.md)
 
+*   ### [Gang Beasts](/pages/gangbeasts.md)
+
 * * *
 
 ```
