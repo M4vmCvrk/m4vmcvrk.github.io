@@ -26,7 +26,7 @@ NOTE: Multiplayer only work with Manual/Direct Connection
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZ3YtRldOZjBqejE3SXllSnktdVIxN1k1OXFMTzJUMEgvdmlldz91c3A9c2hhcmluZw
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZ3YtRldOZjBqejE3SXllSnktdVIxN1k1OXFMTzJUMEgvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 
