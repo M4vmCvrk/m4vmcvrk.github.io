@@ -4,11 +4,11 @@ layout: default
 
 * * *
 
-## Far Cry 3
+## The Forest
 
 * * *
 
-Far Cry 3
+The Forest + Multiplayer
 
 ## How to download:
 
@@ -16,16 +16,18 @@ Far Cry 3
 
 2. Extract the game into a folder of your choice
 
-3. Launch the game as admin
+3. Open Steam
 
-4. Enjoy
+4. Launch the game as admin
+
+5. Enjoy
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZUhQVUdmdmUteWRZNVhWV0xNWlh4dDE2d3Q2c0Q5LTYvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLS11dTYwY2VudFRQSkNRY3YtS25MaDBWb1lsNXdnYmUvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 
-[Back](./)
+[Back](/index.md)
 
 * * *

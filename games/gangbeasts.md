@@ -4,11 +4,11 @@ layout: default
 
 * * *
 
-## The Forest
+## Gang Beasts
 
 * * *
 
-The Forest + Multiplayer
+Gang Beasts
 
 ## How to download:
 
@@ -24,10 +24,10 @@ The Forest + Multiplayer
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLS11dTYwY2VudFRQSkNRY3YtS25MaDBWb1lsNXdnYmUvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xMnNGbGtGSVhoTGlPVEZHY29qMkZUN3hXZVJPTUc0QVIvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 
-[Back](./)
+[Back](/index.md)
 
 * * *

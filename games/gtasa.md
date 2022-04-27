@@ -38,6 +38,6 @@ Rar password: M4vm1337
 
 5. Click Ok to exit and go and launch GTA SA
 
-[Back](./)
+[Back](/index.md)
 
 * * *

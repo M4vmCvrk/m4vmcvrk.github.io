@@ -28,6 +28,6 @@ Game Title
 
 Rar password: M4vm1337
 
-[Back](./)
+[Back](/index.md)
 
 * * *

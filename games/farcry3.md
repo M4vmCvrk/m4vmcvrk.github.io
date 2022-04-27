@@ -4,11 +4,11 @@ layout: default
 
 * * *
 
-## Gang Beasts
+## Far Cry 3
 
 * * *
 
-Gang Beasts
+Far Cry 3
 
 ## How to download:
 
@@ -16,18 +16,16 @@ Gang Beasts
 
 2. Extract the game into a folder of your choice
 
-3. Open Steam
+3. Launch the game as admin
 
-4. Launch the game as admin
-
-5. Enjoy
+4. Enjoy
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xMnNGbGtGSVhoTGlPVEZHY29qMkZUN3hXZVJPTUc0QVIvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZUhQVUdmdmUteWRZNVhWV0xNWlh4dDE2d3Q2c0Q5LTYvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 
-[Back](./)
+[Back](/index.md)
 
 * * *

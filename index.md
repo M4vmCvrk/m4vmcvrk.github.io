@@ -9,21 +9,21 @@ layout: default
 
 * * *
 
-### ALL GAMES HAVE BEEN TESTED AND ARE CONFIRMED TO BE WORKING AND CLEAN , IF YOU HAVE PROBLEMS WITH A GAME GO TO [THE HELP PAGE](/pages/help.md)
+### ALL GAMES HAVE BEEN TESTED AND ARE CONFIRMED TO BE WORKING AND CLEAN , IF YOU HAVE PROBLEMS WITH A GAME GO TO [THE HELP PAGE](/games/help.md)
 
 * * *
 
-*   ### [The Forest](/pages/theforest.md)
+*   ### [The Forest](/games/theforest.md)
 
-*   ### [Ultimate Chicken Horse](/pages/ultimatechickenhorse.md)
+*   ### [Ultimate Chicken Horse](/games/ultimatechickenhorse.md)
 
-*   ### [GTA San Andreas](/pages/gtasa.md)
+*   ### [GTA San Andreas](/games/gtasa.md)
 
-*   ### [Far Cry 3](/pages/farcry3.md)
+*   ### [Far Cry 3](/games/farcry3.md)
 
-*   ### [Gang Beasts](/pages/gangbeasts.md)
+*   ### [Gang Beasts](/games/gangbeasts.md)
 
-*   ### [Terraria](/pages/terraria.md)
+*   ### [Terraria](/games/terraria.md)
 
 * * *
 
