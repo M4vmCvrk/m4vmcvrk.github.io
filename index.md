@@ -31,6 +31,8 @@ layout: default
 
 *   ### [Keep Talking and Nobody Explodes](/games/ktane.md)
 
+*   ### [Castle Crashers](/games/castlecrashers.md)
+
 * * *
 
 ```
