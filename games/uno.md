@@ -4,11 +4,11 @@ layout: default
 
 * * *
 
-## Garrys Mod / Gmod
+## Uno
 
 * * *
 
-Garrys Mod / Gmod
+Uno
 
 ## How to download:
 
@@ -24,11 +24,9 @@ Garrys Mod / Gmod
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRk1xZmRINWJwQ1BsSW5PMFN6MjI4Qkx6RU1XdzFDNDQvdmlldz91c3A9c2hhcmluZw==
+(base64 encoded link)
 
 Rar password: M4vm1337
-
-### Note: You can change the games language in the main menu by clicking on the flag in the bottom right corner !
 
 [Back](https://m4vmcvrk.github.io/)
 
