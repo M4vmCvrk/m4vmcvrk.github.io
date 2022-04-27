@@ -29,6 +29,8 @@ layout: default
 
 *   ### [Garrys Mod / Gmod](/games/gmod.md)
 
+*   ### [Keep Talking and Nobody Explodes](/games/ktane.md)
+
 * * *
 
 ```
