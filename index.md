@@ -27,7 +27,7 @@ layout: default
 
 *   ### [Golf With Your Friends](/games/gwyf.md)
 
-*   ### [Garrys Mod / Gmod](/games/gmod.md) (COMMING SOON)
+*   ### [Garrys Mod / Gmod](/games/gmod.md)
 
 *   ### [Uno](/games/uno.md) (COMMING SOON)
 
