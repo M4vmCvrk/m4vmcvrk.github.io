@@ -51,6 +51,6 @@ The hash checker I use is called onlinemd5 , you can find it on google
 
 To get a fresh version of tML find their official website (not steam page) and click on releases
 
-[Back](/index.md)
+[Back](https://m4vmcvrk.github.io/)
 
 * * *

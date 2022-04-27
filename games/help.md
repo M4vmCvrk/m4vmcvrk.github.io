@@ -22,6 +22,6 @@ READ CAREFULLY
 
 5. If the game somehow still doesnt work for you try to look up your error on google
 
-[Back](/index.md)
+[Back](https://m4vmcvrk.github.io/)
 
 * * *

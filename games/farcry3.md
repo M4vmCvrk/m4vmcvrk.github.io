@@ -26,6 +26,6 @@ aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZUhQVUdmdmUteWRZNVhWV0xNWlh4dDE2d3Q2
 
 Rar password: M4vm1337
 
-[Back](/index.md)
+[Back](https://m4vmcvrk.github.io/)
 
 * * *
