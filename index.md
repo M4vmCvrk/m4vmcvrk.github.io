@@ -25,6 +25,10 @@ layout: default
 
 *   ### [Terraria](/games/terraria.md)
 
+*   ### [Golf With Your Friends](/games/gwyf.md)
+
+*   ### [Garrys Mod / Gmod](/games/gmod.md) (COMMING SOON)
+
 * * *
 
 ```
