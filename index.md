@@ -29,8 +29,6 @@ layout: default
 
 *   ### [Garrys Mod / Gmod](/games/gmod.md)
 
-*   ### [Uno](/games/uno.md) (COMMING SOON)
-
 * * *
 
 ```
