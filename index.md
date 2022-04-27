@@ -23,6 +23,8 @@ layout: default
 
 *   ### [Gang Beasts](/pages/gangbeasts.md)
 
+*   ### [Terraria](/pages/terraria.md)
+
 * * *
 
 ```
