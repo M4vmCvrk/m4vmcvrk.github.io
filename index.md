@@ -33,6 +33,8 @@ layout: default
 
 *   ### [Castle Crashers](/games/castlecrashers.md)
 
+*   ### [BattleBlock Theater](/games/bbt.md)
+
 * * *
 
 ```
