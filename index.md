@@ -37,6 +37,8 @@ layout: default
 
 *   ### [The Escapists 2](/games/te2.md)
 
+*   ### [Goat Simulator](/games/goatsim.md)
+
 * * *
 
 ```
