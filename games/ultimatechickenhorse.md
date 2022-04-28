@@ -8,7 +8,7 @@ layout: default
 
 * * *
 
-Ultimate Chicken Horse + Multiplayer
+Ultimate Chicken Horse
 
 ## How to download:
 

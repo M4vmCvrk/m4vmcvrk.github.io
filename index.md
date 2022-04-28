@@ -35,6 +35,8 @@ layout: default
 
 *   ### [BattleBlock Theater](/games/bbt.md)
 
+*   ### [The Escapists 2](/games/te2.md)
+
 * * *
 
 ```
