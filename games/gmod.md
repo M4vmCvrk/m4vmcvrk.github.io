@@ -16,19 +16,19 @@ Garrys Mod / Gmod
 
 2. Extract the game into a folder of your choice
 
-3. Open Steam
+3. Launch Garrys_Mod.exe as admin
 
-4. Launch the game as admin
-
-5. Enjoy
+4. Enjoy
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRk1xZmRINWJwQ1BsSW5PMFN6MjI4Qkx6RU1XdzFDNDQvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWWh5NWtCVENSSFJoS0tGN0RQVWhwMXVnazI3NEcyWkkvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 
-### Note: You can change the games language in the main menu by clicking on the flag in the bottom right corner !
+## How to install aditional content from other games:
+
+[YouTube Tutorial:](https://www.youtube.com/watch?v=RJbcqubGOrk)
 
 [Back](https://m4vmcvrk.github.io/)
 
