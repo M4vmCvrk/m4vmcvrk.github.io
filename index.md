@@ -39,6 +39,8 @@ layout: default
 
 *   ### [Goat Simulator](/games/goatsim.md)
 
+*   ### [Left 4 Dead 2](/games/l4d2.md)
+
 * * *
 
 ```
