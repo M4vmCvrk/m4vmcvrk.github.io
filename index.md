@@ -41,6 +41,8 @@ layout: default
 
 *   ### [Left 4 Dead 2](/games/l4d2.md)
 
+*   ### [Oxygen Not Included](/games/onc.md)
+
 * * *
 
 ```
