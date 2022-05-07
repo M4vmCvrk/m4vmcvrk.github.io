@@ -41,7 +41,11 @@ layout: default
 
 *   ### [Left 4 Dead 2](/games/l4d2.md)
 
-*   ### [Oxygen Not Included](/games/onc.md)
+*   ### [Oxygen Not Included](/games/oni.md)
+
+*   ### [Need For Speed: The Run](/games/nfstr.md)
+
+*   ### [Need For Speed: Most Wanted Black Edition (2005)](/games/nfsmw05.md)
 
 * * *
 
