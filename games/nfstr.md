@@ -8,6 +8,10 @@ layout: default
 
 * * *
 
+### IF YOU HAVE PROBLEMS WITH THE GAME GO TO [THE HELP PAGE](/games/help.md)
+
+* * *
+
 Need For Speed: The Run
 
 ## How to download:

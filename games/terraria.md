@@ -5,6 +5,11 @@ layout: default
 * * *
 
 ## Terraria
+
+* * *
+
+### IF YOU HAVE PROBLEMS WITH THE GAME GO TO [THE HELP PAGE](/games/help.md)
+
 * * *
 
 Terraria

@@ -4,7 +4,7 @@ layout: default
 
 * * *
 
-## Far Cry 3
+## Metro Redux 2033 & Last Light
 
 * * *
 
@@ -12,7 +12,7 @@ layout: default
 
 * * *
 
-Far Cry 3
+Metro Redux 2033 & Last Light
 
 ## How to download:
 
@@ -26,7 +26,7 @@ Far Cry 3
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZUhQVUdmdmUteWRZNVhWV0xNWlh4dDE2d3Q2c0Q5LTYvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZzJacGFJZWt6LVpkWHpDQnpIMUpfakNZYTBOSlFFdDMvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 

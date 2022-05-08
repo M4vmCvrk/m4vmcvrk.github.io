@@ -4,7 +4,7 @@ layout: default
 
 * * *
 
-## How to fix common game errors
+## How to fix common game errors:
 
 * * *
 

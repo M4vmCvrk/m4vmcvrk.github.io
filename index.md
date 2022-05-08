@@ -47,6 +47,8 @@ layout: default
 
 *   ### [Need For Speed: Most Wanted Black Edition (2005)](/games/nfsmw05.md)
 
+*   ### [Metro Redux 2033 & Last Light](/games/mr.md)
+
 * * *
 
 ```
