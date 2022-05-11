@@ -51,6 +51,8 @@ layout: default
 
 *   ### [Need For Speed: Most Wanted (2012)](/games/nfsmw12.md)
 
+*   ### [The Stanley Parable Ultra Deluxe](/games/tspud.md)
+
 * * *
 
 ```
