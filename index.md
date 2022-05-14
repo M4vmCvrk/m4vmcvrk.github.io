@@ -53,6 +53,8 @@ layout: default
 
 *   ### [The Stanley Parable Ultra Deluxe](/games/tspud.md)
 
+*   ### [Who's Your Daddy](/games/wyd.md)
+
 * * *
 
 ```
