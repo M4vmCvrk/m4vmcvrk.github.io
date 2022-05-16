@@ -55,6 +55,8 @@ layout: default
 
 *   ### [Who's Your Daddy](/games/wyd.md)
 
+*   ### [The Binding Of Isaac: Repentance](/games/tboir.md)
+
 * * *
 
 ```
