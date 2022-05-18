@@ -57,6 +57,8 @@ layout: default
 
 *   ### [The Binding Of Isaac: Repentance](/games/tboir.md)
 
+*   ### [Raft](/games/raft.md)
+
 * * *
 
 ```
