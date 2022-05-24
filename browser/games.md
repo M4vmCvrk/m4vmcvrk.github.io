@@ -9,9 +9,9 @@ layout: default
 
 * * *
 
-## SOON
+## TOTAL REWORK COMMING SOON
 
-*   ### [Test](./test.html)
+*   ### [Pixel Speedrun](./pixelsr.html)
 
 * * * 
 
