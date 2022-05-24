@@ -11,9 +11,13 @@ layout: default
 
 ### ALL GAMES HAVE BEEN TESTED AND ARE CONFIRMED TO BE WORKING AND CLEAN , IF YOU HAVE PROBLEMS WITH A GAME GO TO [THE HELP PAGE](/games/help.md)
 
-* * *
+* * * 
+
+<img src=”https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg?t=1590522045”>
 
 *   ### [The Forest](/games/theforest.md)
+
+* * *
 
 *   ### [Ultimate Chicken Horse](/games/ultimatechickenhorse.md)
 
