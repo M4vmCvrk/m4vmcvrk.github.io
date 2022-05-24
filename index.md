@@ -11,7 +11,7 @@ layout: default
 
 *   ## [Download games](/games/games.md)
 
-*   ## [Play games in your browser](/browser/games.md)
+*   ## [Browser games](/browser/games.md)
 
 * * *
 

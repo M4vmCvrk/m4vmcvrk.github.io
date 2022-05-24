@@ -9,59 +9,67 @@ layout: default
 
 * * *
 
-### ALL GAMES HAVE BEEN TESTED AND ARE CONFIRMED TO BE WORKING AND CLEAN , IF YOU HAVE PROBLEMS WITH A GAME GO TO [THE HELP PAGE](/games/help.md)
+### ALL GAMES HAVE BEEN TESTED AND ARE CONFIRMED TO BE WORKING AND CLEAN , IF YOU HAVE PROBLEMS WITH A GAME GO TO [THE HELP PAGE](./help.md)
 
 * * * 
 
 ![The Forest](./assets/TheForest.jpg "The Forest")
 
-*   ### [The Forest](/games/theforest.md)
+*   ### [The Forest](./theforest.md)
 
 * * *
 
-*   ### [Ultimate Chicken Horse](/games/ultimatechickenhorse.md)
+![Ultimate Chicken Horse](./assets/UCH.jpg "Ultimate Chicken Horse")
 
-*   ### [GTA San Andreas](/games/gtasa.md)
+*   ### [Ultimate Chicken Horse](./ultimatechickenhorse.md)
 
-*   ### [Far Cry 3](/games/farcry3.md)
+* * *
 
-*   ### [Gang Beasts](/games/gangbeasts.md)
+![GTA San Andreas](./assets/GTASA.jpg "GTA San Andreas")
 
-*   ### [Terraria](/games/terraria.md)
+*   ### [GTA San Andreas](./gtasa.md)
 
-*   ### [Golf With Your Friends](/games/gwyf.md)
+* * *
 
-*   ### [Garrys Mod / Gmod](/games/gmod.md)
+*   ### [Far Cry 3](./farcry3.md)
 
-*   ### [Keep Talking and Nobody Explodes](/games/ktane.md)
+*   ### [Gang Beasts](./gangbeasts.md)
 
-*   ### [Castle Crashers](/games/castlecrashers.md)
+*   ### [Terraria](./terraria.md)
 
-*   ### [BattleBlock Theater](/games/bbt.md)
+*   ### [Golf With Your Friends](./gwyf.md)
 
-*   ### [The Escapists 2](/games/te2.md)
+*   ### [Garrys Mod / Gmod](./gmod.md)
 
-*   ### [Goat Simulator](/games/goatsim.md)
+*   ### [Keep Talking and Nobody Explodes](./ktane.md)
 
-*   ### [Left 4 Dead 2](/games/l4d2.md)
+*   ### [Castle Crashers](./castlecrashers.md)
 
-*   ### [Oxygen Not Included](/games/oni.md)
+*   ### [BattleBlock Theater](./bbt.md)
 
-*   ### [Need For Speed: The Run](/games/nfstr.md)
+*   ### [The Escapists 2](./te2.md)
 
-*   ### [Need For Speed: Most Wanted Black Edition (2005)](/games/nfsmw05.md)
+*   ### [Goat Simulator](./goatsim.md)
 
-*   ### [Metro Redux 2033 & Last Light](/games/mr.md)
+*   ### [Left 4 Dead 2](./l4d2.md)
 
-*   ### [Need For Speed: Most Wanted (2012)](/games/nfsmw12.md)
+*   ### [Oxygen Not Included](./oni.md)
 
-*   ### [The Stanley Parable Ultra Deluxe](/games/tspud.md)
+*   ### [Need For Speed: The Run](./nfstr.md)
 
-*   ### [Who's Your Daddy](/games/wyd.md)
+*   ### [Need For Speed: Most Wanted Black Edition (2005)](./nfsmw05.md)
 
-*   ### [The Binding Of Isaac: Repentance](/games/tboir.md)
+*   ### [Metro Redux 2033 & Last Light](./mr.md)
 
-*   ### [Raft](/games/raft.md)
+*   ### [Need For Speed: Most Wanted (2012)](./nfsmw12.md)
+
+*   ### [The Stanley Parable Ultra Deluxe](./tspud.md)
+
+*   ### [Who's Your Daddy](./wyd.md)
+
+*   ### [The Binding Of Isaac: Repentance](./tboir.md)
+
+*   ### [Raft](./raft.md)
 
 * * *
 
