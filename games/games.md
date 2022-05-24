@@ -13,7 +13,7 @@ layout: default
 
 * * * 
 
-<img src=”https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg?t=1590522045”>
+![](/games/assets/TheForest.jpg "The Forest")
 
 *   ### [The Forest](/games/theforest.md)
 
