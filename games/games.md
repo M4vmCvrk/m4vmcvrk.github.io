@@ -13,7 +13,7 @@ layout: default
 
 * * * 
 
-![](/games/assets/TheForest.jpg "The Forest")
+![The Forest](./assets/TheForest.jpg "The Forest")
 
 *   ### [The Forest](/games/theforest.md)
 
