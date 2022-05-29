@@ -157,6 +157,12 @@ layout: default
 
 * * *
 
+![Stickfight](./assets/stickfight.jpg "Stickfight")
+
+*   ### [Stick Fight: The Game](./stickfight.md)
+
+* * *
+
 ```
 :)
 ```
