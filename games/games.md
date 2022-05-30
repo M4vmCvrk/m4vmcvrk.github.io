@@ -163,6 +163,12 @@ layout: default
 
 * * *
 
+![Getting Over It](./assets/goi.jpg "Getting Over It")
+
+*   ### [Getting Over It](./goi.md)
+
+* * *
+
 ```
 :)
 ```
