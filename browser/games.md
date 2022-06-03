@@ -35,17 +35,15 @@ layout: default
 
 *   ### [2048](./advanced/2048/index.html)
 
-*   ### [Mortal Kombat](./advanced/mortalkombat/game/index.html)
+*   ### [Mortal Kombat (ONLINE MULTIPLAYER)](./advanced/mortalkombat/game/index.html)
 
 *   ### [Chess](./advanced/chess/index.html)
-
-*   ### [Duck Hunt](./advanced/duckhunt/main.js)
 
 *   ### [Infinite Mario](./advanced/infinite-mario/main.html)
 
 *   ### [Tower Defense](./advanced/towerdefense/index.html)
 
-*   ### [Q1k3](./advanced/q1k3/index.html)
+*   ### [Q1k3](https://phoboslab.org/q1k3/)
 
 * * *
 
