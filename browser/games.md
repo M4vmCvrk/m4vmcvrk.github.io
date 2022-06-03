@@ -13,31 +13,57 @@ layout: default
 
 * * *
 
-*   ### [Snake](./snake.html)
+## Simple Games
 
-*   ### [Pong](./pong.html)
+*   ### [Snake](./simple/snake.html)
 
-*   ### [Tetris](./tetris.html)
+*   ### [Pong](./simple/pong.html)
 
-*   ### [Breakout](./breakout.html)
+*   ### [Tetris](./simple/tetris.html)
 
-*   ### [Sound Wave](./soundwave/index.html)
+*   ### [Breakout](./simple/breakout.html)
 
 * * *
 
-*   ### [Pixel Speedrun](./pixelsr.html)
+## Advanced Games
 
-*   ### [Tank Trouble](./tanktrouble.html)
+*   ### [Audio Dash](./advanced/audiodash/index.html)
 
-*   ### [Super Mario Bros](./smb.html)
+*   ### [JavaScript Racer](./advanced/javascript-racer/game.html)
 
-*   ### [18 Second Challenge](./18sc.html)
+*   ### [Hextris](./advanced/hextris/index.html)
 
-*   ### [Mountain Bike Runner](./mbr.html)
+*   ### [2048](./advanced/2048/index.html)
 
-*   ### [Wheelie Bike](./wb.html)
+*   ### [Mortal Kombat](./advanced/mortalkombat/game/index.html)
 
-*   ### [Resume Run](./rr.html)
+*   ### [Chess](./advanced/chess/index.html)
+
+*   ### [Duck Hunt](./advanced/duckhunt/main.js)
+
+*   ### [Infinite Mario](./advanced/infinite-mario/main.html)
+
+*   ### [Tower Defense](./advanced/towerdefense/index.html)
+
+*   ### [Q1k3](./advanced/q1k3/index.html)
+
+* * *
+
+## Construct Games
+
+*   ### [Pixel Speedrun](./construct/pixelsr.html)
+
+*   ### [Tank Trouble](./construct/tanktrouble.html)
+
+*   ### [Super Mario Bros](./construct/smb.html)
+
+*   ### [18 Second Challenge](./construct/18sc.html)
+
+*   ### [Mountain Bike Runner](./construct/mbr.html)
+
+*   ### [Wheelie Bike](./construct/wb.html)
+
+*   ### [Resume Run](./construct/rr.html)
 
 * * * 
 
