@@ -169,6 +169,12 @@ layout: default
 
 * * *
 
+![Dark Souls: Prepare To Die Edition](./assets/dsptde.jpg "Dark Souls: Prepare To Die Edition")
+
+*   ### [Dark Souls: Prepare To Die Edition](./dsptde.md)
+
+* * *
+
 ```
 :)
 ```
