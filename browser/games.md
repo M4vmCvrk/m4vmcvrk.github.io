@@ -21,6 +21,8 @@ layout: default
 
 *   ### [Breakout](./breakout.html)
 
+*   ### [Sound Wave](./soundwave/index.html)
+
 * * *
 
 *   ### [Pixel Speedrun](./pixelsr.html)
@@ -28,8 +30,6 @@ layout: default
 *   ### [Tank Trouble](./tanktrouble.html)
 
 *   ### [Super Mario Bros](./smb.html)
-
-*   ### [Flappy Bird Clone](./fbc.html)
 
 *   ### [18 Second Challenge](./18sc.html)
 
