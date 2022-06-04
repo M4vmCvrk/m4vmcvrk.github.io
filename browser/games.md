@@ -43,6 +43,10 @@ layout: default
 
 *   ### [Tower Defense](./advanced/towerdefense/index.html)
 
+*   ### [Track Not Found](./advanced/track-not-found/index.html)
+
+*   ### [I Want To Google](./advanced/iwanttogoogle/index.html)
+
 *   ### [Q1k3](https://phoboslab.org/q1k3/)
 
 * * *
