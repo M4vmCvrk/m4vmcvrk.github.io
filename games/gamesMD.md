@@ -179,8 +179,19 @@ layout: default
 
 *   ### [BeamNG.drive](./beamng.md)
 
+* * * !!!
+
+![Neon Abyss](./assets/neonabyss.jpg "Neon Abyss")
+
+*   ### [Neon Abyss](./neonabyss.md)
+
 * * *
 
+![Xenoverse 2](./assets/xenoverse2.jpg "Xenoverse 2")
+
+*   ### [Xenoverse 2](./xenoverse2.md)
+
+* * *
 
 ```
 :)
