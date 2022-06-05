@@ -179,7 +179,7 @@ layout: default
 
 *   ### [BeamNG.drive](./beamng.md)
 
-* * * !!!
+* * *
 
 ![Neon Abyss](./assets/neonabyss.jpg "Neon Abyss")
 
@@ -187,9 +187,15 @@ layout: default
 
 * * *
 
+![Astroneer](./assets/astroneer.jpg "Astroneer")
+
+*   ### [Astroneer](./astroneer.md)
+
+* * *
+
 ![Xenoverse 2](./assets/xenoverse2.jpg "Xenoverse 2")
 
-*   ### [Xenoverse 2](./xenoverse2.md)
+*   ### [Dragon Ball Xenoverse 2](./xenoverse2.md)
 
 * * *
 
