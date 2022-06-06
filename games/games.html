@@ -8,21 +8,8 @@ layout: default
 
 <body>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<div class="sk-fading-circle">
-    <div class="sk-circle1 sk-circle"></div>
-    <div class="sk-circle2 sk-circle"></div>
-    <div class="sk-circle3 sk-circle"></div>
-    <div class="sk-circle4 sk-circle"></div>
-    <div class="sk-circle5 sk-circle"></div>
-    <div class="sk-circle6 sk-circle"></div>
-    <div class="sk-circle7 sk-circle"></div>
-    <div class="sk-circle8 sk-circle"></div>
-    <div class="sk-circle9 sk-circle"></div>
-    <div class="sk-circle10 sk-circle"></div>
-    <div class="sk-circle11 sk-circle"></div>
-    <div class="sk-circle12 sk-circle"></div>
+<div id="preloader">
+    <div id="status">&nbsp;</div>
 </div>
 
 <hr>
@@ -265,16 +252,18 @@ layout: default
 <pre><code><span class="hljs-selector-pseudo">:)</span>
 </code></pre><hr>
 
-<script>
-    jQuery(document).ready(function() {
-    //Preloader
-    preloaderFadeOutTime = 500;
-    function hidePreloader() {
-    var preloader = jQuery('.spinner-wrapper');
-    preloader.fadeOut(preloaderFadeOutTime);
-    }
-    hidePreloader();
-    });
+<!-- jQuery Plugin -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+
+<!-- Preloader -->
+<script type="text/javascript">
+    //<![CDATA[
+        $(window).on('load', function() { // makes sure the whole site is loaded 
+            $('#status').fadeOut(); // will first fade out the loading animation 
+            $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website. 
+            $('body').delay(350).css({'overflow':'visible'});
+          })
+    //]]>
 </script>
 
 </body>
