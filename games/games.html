@@ -21,7 +21,19 @@ layout: default
     <div class="sk-circle10 sk-circle"></div>
     <div class="sk-circle11 sk-circle"></div>
     <div class="sk-circle12 sk-circle"></div>
-  </div>
+</div>
+
+<script>
+$(document).ready(function() {
+//Preloader
+preloaderFadeOutTime = 500;
+function hidePreloader() {
+var preloader = $('.spinner-wrapper');
+preloader.fadeOut(preloaderFadeOutTime);
+}
+hidePreloader();
+});
+</script>
 
 <hr>
 <ul>
