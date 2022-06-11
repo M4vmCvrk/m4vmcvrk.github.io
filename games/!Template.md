@@ -28,9 +28,13 @@ Game Title
 
 ## Download:
 
+**Part 1:**   
+
 (base64 encoded link)
 
 Rar password: M4vm1337
+
+[If you dont know how to download multi-part games click here](./help.md)
 
 [Back](https://m4vmcvrk.github.io/)
 
