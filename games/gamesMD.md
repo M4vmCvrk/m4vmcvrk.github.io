@@ -205,6 +205,12 @@ layout: default
 
 * * *
 
+![Totally Reliable Delivery Service](./assets/trds.jpg "Totally Reliable Delivery Service")
+
+*   ### [Totally Reliable Delivery Service](./trds.md)
+
+* * *
+
 ```
 :)
 ```
