@@ -211,6 +211,60 @@ layout: default
 
 * * *
 
+![Just Shapes & Beats](./assets/jsab.jpg "Just Shapes & Beats")
+
+*   ### [Just Shapes & Beats](./jsab.md)
+
+* * *
+
+![Counter-Strike: Source](./assets/css.jpg "Counter-Strike: Source")
+
+*   ### [Counter-Strike: Source](./css.md)
+
+* * *
+
+![Hacknet](./assets/hacknet.jpg "Hacknet")
+
+*   ### [Hacknet](./hacknet.md)
+
+* * *
+
+![House Flipper](./assets/hf.jpg "House Flipper")
+
+*   ### [House Flipper](./hf.md)
+
+* * *
+
+![Need for Speed Underground 2](./assets/nfsu2.jpg "Need for Speed Underground 2")
+
+*   ### [Need for Speed Underground 2](./nfsu2.md)
+
+* * *
+
+![Swords & Souls: Neverseen](./assets/sasn.jpg "Swords & Souls: Neverseen")
+
+*   ### [Swords & Souls: Neverseen](./sasn.md)
+
+* * *
+
+![SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](./assets/sbbfbbr.jpg "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated")
+
+*   ### [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](./sbbfbbr.md)
+
+* * *
+
+![Super Meat Boy](./assets/smb.jpg "Super Meat Boy")
+
+*   ### [Super Meat Boy](./smb.md)
+
+* * *
+
+![The Backrooms 1998](./assets/tb1998.jpg "The Backrooms 1998")
+
+*   ### [The Backrooms 1998](./tb1998.md)
+
+* * *
+
 ```
 :)
 ```
