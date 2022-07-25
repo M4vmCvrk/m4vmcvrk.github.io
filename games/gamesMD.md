@@ -307,6 +307,36 @@ layout: default
 
 * * *
 
+![Surgeon Simulator 2](./assets/ss2.jpg "Surgeon Simulator 2")
+
+*   ### [Surgeon Simulator 2](./ss2.md)
+
+* * *
+
+![The Backrooms Survival](./assets/tbs.jpg "The Backrooms Survival")
+
+*   ### [The Backrooms Survival](./tbs.md)
+
+* * *
+
+![Papers Please](./assets/pp.jpg "Papers Please")
+
+*   ### [Papers Please](./pp.md)
+
+* * *
+
+![From The Darkness](./assets/ftd.jpg "From The Darkness")
+
+*   ### [From The Darkness](./ftd.md)
+
+* * *
+
+![Forager](./assets/forager.jpg "Forager")
+
+*   ### [Forager](./forager.md)
+
+* * *
+
 ```
 :)
 ```
