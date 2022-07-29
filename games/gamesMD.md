@@ -15,7 +15,7 @@ layout: default
 
 ![The Forest](./assets/TheForest.jpg "The Forest")
 
-*   ### [The Forest](./theforest.md)
+*   ### [The Forest](./theforest.md) > **MULTIPLAYER**
 
 * * *
 
