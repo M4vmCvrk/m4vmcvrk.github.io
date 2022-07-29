@@ -9,7 +9,7 @@ layout: default
 
 * * *
 
-*   ## [Download games](/games/games.html)
+*   ## [Download games](/games/gamesMD.md)
 
 *   ## [Browser games](/browser/games.md)
 

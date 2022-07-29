@@ -15,13 +15,13 @@ layout: default
 
 ![The Forest](./assets/TheForest.jpg "The Forest")
 
-*   ### [The Forest](./theforest.md) > **MULTIPLAYER**
+*   ### [The Forest](./theforest.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Ultimate Chicken Horse](./assets/UCH.jpg "Ultimate Chicken Horse")
 
-*   ### [Ultimate Chicken Horse](./ultimatechickenhorse.md)
+*   ### [Ultimate Chicken Horse](./ultimatechickenhorse.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -39,19 +39,19 @@ layout: default
 
 ![Gang Beasts](./assets/GangBeasts.jpg "Gang Beasts")
 
-*   ### [Gang Beasts](./gangbeasts.md)
+*   ### [Gang Beasts](./gangbeasts.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Terraria](./assets/Terraria.jpg "Terraria")
 
-*   ### [Terraria](./terraria.md)
+*   ### [Terraria](./terraria.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Golf With Your Friends](./assets/gwyf.jpg "Golf With Your Friends")
 
-*   ### [Golf With Your Friends](./gwyf.md)
+*   ### [Golf With Your Friends](./gwyf.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -69,19 +69,19 @@ layout: default
 
 ![Castle Crashers](./assets/CastleCrashers.jpg "Castle Crashers")
 
-*   ### [Castle Crashers](./castlecrashers.md)
+*   ### [Castle Crashers](./castlecrashers.md) **| MULTIPLAYER |**
 
 * * *
 
 ![BattleBlock Theater](./assets/bbt.jpg "BattleBlock Theater")
 
-*   ### [BattleBlock Theater](./bbt.md)
+*   ### [BattleBlock Theater](./bbt.md) **| MULTIPLAYER |**
 
 * * *
 
 ![The Escapists 2](./assets/te2.jpg "The Escapists 2")
 
-*   ### [The Escapists 2](./te2.md)
+*   ### [The Escapists 2](./te2.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -135,7 +135,7 @@ layout: default
 
 ![Who's Your Daddy](./assets/wyd.jpg "Who's Your Daddy")
 
-*   ### [Who's Your Daddy](./wyd.md)
+*   ### [Who's Your Daddy](./wyd.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -147,19 +147,19 @@ layout: default
 
 ![Raft](./assets/raft.jpg "Raft")
 
-*   ### [Raft](./raft.md)
+*   ### [Raft](./raft.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Pogostuck](./assets/pogostuck.jpg "Pogostuck")
 
-*   ### [Pogostuck](./pogostuck.md)
+*   ### [Pogostuck](./pogostuck.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Stickfight](./assets/stickfight.jpg "Stickfight")
 
-*   ### [Stick Fight: The Game](./stickfight.md)
+*   ### [Stick Fight: The Game](./stickfight.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -195,19 +195,19 @@ layout: default
 
 ![Xenoverse 2](./assets/xenoverse2.jpg "Xenoverse 2")
 
-*   ### [Dragon Ball Xenoverse 2](./xenoverse2.md)
+*   ### [Dragon Ball Xenoverse 2](./xenoverse2.md) **| MULTIPLAYER |**
 
 * * *
 
 ![PowerWash Simulator](./assets/pwsim.jpg "PowerWash Simulator")
 
-*   ### [PowerWash Simulator](./pwsim.md)
+*   ### [PowerWash Simulator](./pwsim.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Totally Reliable Delivery Service](./assets/trds.jpg "Totally Reliable Delivery Service")
 
-*   ### [Totally Reliable Delivery Service](./trds.md)
+*   ### [Totally Reliable Delivery Service](./trds.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -219,7 +219,7 @@ layout: default
 
 ![Counter-Strike: Source](./assets/css.jpg "Counter-Strike: Source")
 
-*   ### [Counter-Strike: Source](./css.md)
+*   ### [Counter-Strike: Source](./css.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -267,7 +267,7 @@ layout: default
 
 ![Human: Fall Flat](./assets/hff.jpg "Human: Fall Flat")
 
-*   ### [Human: Fall Flat](./hff.md)
+*   ### [Human: Fall Flat](./hff.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -279,7 +279,7 @@ layout: default
 
 ![ShellShock Live](./assets/ssl.jpg "ShellShock Live")
 
-*   ### [ShellShock Live](./ssl.md)
+*   ### [ShellShock Live](./ssl.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -297,25 +297,25 @@ layout: default
 
 ![Green Hell](./assets/gh.jpg "Green Hell")
 
-*   ### [Green Hell](./gh.md)
+*   ### [Green Hell](./gh.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Skullgirls 2nd Encore](./assets/sg2e.jpg "Skullgirls 2nd Encore")
 
-*   ### [Skullgirls 2nd Encore](./sg2e.md)
+*   ### [Skullgirls 2nd Encore](./sg2e.md) **| MULTIPLAYER |**
 
 * * *
 
 ![Surgeon Simulator 2](./assets/ss2.jpg "Surgeon Simulator 2")
 
-*   ### [Surgeon Simulator 2](./ss2.md)
+*   ### [Surgeon Simulator 2](./ss2.md) **| MULTIPLAYER |**
 
 * * *
 
 ![The Backrooms Survival](./assets/tbs.jpg "The Backrooms Survival")
 
-*   ### [The Backrooms Survival](./tbs.md)
+*   ### [The Backrooms Survival](./tbs.md) **| MULTIPLAYER |**
 
 * * *
 
