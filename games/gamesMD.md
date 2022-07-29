@@ -4,8 +4,10 @@ layout: default
 
 * * *
 
+<div align="center">
 *   # M4vmCvrk
 ## Welcome to my videogame archive !
+</div>
 
 * * *
 
