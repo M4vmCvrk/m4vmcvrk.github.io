@@ -354,6 +354,12 @@ layout: default
 
 * * *
 
+![Surgeon Simulator 1](./assets/ss1.jpg "Surgeon Simulator 1")
+
+*   ### [Surgeon Simulator 1](./ss1.md)
+
+* * *
+
 ```
 :)
 ```
