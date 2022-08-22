@@ -13,6 +13,14 @@ layout: default
 
 * * * 
 
+*   ### Sort games:
+
+### [All games](./gamesALL.md)
+
+### [Multiplayer](./gamesMP.md)
+
+* * *
+
 <input type="text" id="SearchTxt" /><input type="button" id="SearchBtn" value="Search" onclick="doSearch(document.getElementById('SearchTxt').value)" />
     <script>
         function doSearch(text) {
@@ -26,13 +34,7 @@ layout: default
 
 ![The Forest](./assets/TheForest.jpg "The Forest")
 
-*   ### [The Forest](./theforest.md) **| MULTIPLAYER |**
-
-* * *
-
-![Ultimate Chicken Horse](./assets/UCH.jpg "Ultimate Chicken Horse")
-
-*   ### [Ultimate Chicken Horse](./ultimatechickenhorse.md) **| MULTIPLAYER |**
+*   ### [The Forest](./theforest.md) 
 
 * * *
 
@@ -48,21 +50,9 @@ layout: default
 
 * * *
 
-![Gang Beasts](./assets/GangBeasts.jpg "Gang Beasts")
-
-*   ### [Gang Beasts](./gangbeasts.md) **| MULTIPLAYER |**
-
-* * *
-
 ![Terraria](./assets/Terraria.jpg "Terraria")
 
-*   ### [Terraria](./terraria.md) **| MULTIPLAYER |**
-
-* * *
-
-![Golf With Your Friends](./assets/gwyf.jpg "Golf With Your Friends")
-
-*   ### [Golf With Your Friends](./gwyf.md) **| MULTIPLAYER |**
+*   ### [Terraria](./terraria.md) 
 
 * * *
 
@@ -72,27 +62,21 @@ layout: default
 
 * * *
 
-![Keep Talking and Nobody Explodes](./assets/ktane.jpg "Keep Talking and Nobody Explodes")
-
-*   ### [Keep Talking and Nobody Explodes](./ktane.md)
-
-* * *
-
 ![Castle Crashers](./assets/CastleCrashers.jpg "Castle Crashers")
 
-*   ### [Castle Crashers](./castlecrashers.md) **| MULTIPLAYER |**
+*   ### [Castle Crashers](./castlecrashers.md) 
 
 * * *
 
 ![BattleBlock Theater](./assets/bbt.jpg "BattleBlock Theater")
 
-*   ### [BattleBlock Theater](./bbt.md) **| MULTIPLAYER |**
+*   ### [BattleBlock Theater](./bbt.md) 
 
 * * *
 
 ![The Escapists 2](./assets/te2.jpg "The Escapists 2")
 
-*   ### [The Escapists 2](./te2.md) **| MULTIPLAYER |**
+*   ### [The Escapists 2](./te2.md) 
 
 * * *
 
@@ -144,12 +128,6 @@ layout: default
 
 * * *
 
-![Who's Your Daddy](./assets/wyd.jpg "Who's Your Daddy")
-
-*   ### [Who's Your Daddy](./wyd.md) **| MULTIPLAYER |**
-
-* * *
-
 ![The Binding Of Isaac: Repentance](./assets/tboir.jpg "The Binding Of Isaac: Repentance")
 
 *   ### [The Binding Of Isaac: Repentance](./tboir.md)
@@ -158,19 +136,13 @@ layout: default
 
 ![Raft](./assets/raft.jpg "Raft")
 
-*   ### [Raft](./raft.md) **| MULTIPLAYER |**
+*   ### [Raft](./raft.md) 
 
 * * *
 
 ![Pogostuck](./assets/pogostuck.jpg "Pogostuck")
 
-*   ### [Pogostuck](./pogostuck.md) **| MULTIPLAYER |**
-
-* * *
-
-![Stickfight](./assets/stickfight.jpg "Stickfight")
-
-*   ### [Stick Fight: The Game](./stickfight.md) **| MULTIPLAYER |**
+*   ### [Pogostuck](./pogostuck.md) 
 
 * * *
 
@@ -204,21 +176,15 @@ layout: default
 
 * * *
 
-![Xenoverse 2](./assets/xenoverse2.jpg "Xenoverse 2")
-
-*   ### [Dragon Ball Xenoverse 2](./xenoverse2.md) **| MULTIPLAYER |**
-
-* * *
-
 ![PowerWash Simulator](./assets/pwsim.jpg "PowerWash Simulator")
 
-*   ### [PowerWash Simulator](./pwsim.md) **| MULTIPLAYER |**
+*   ### [PowerWash Simulator](./pwsim.md) 
 
 * * *
 
 ![Totally Reliable Delivery Service](./assets/trds.jpg "Totally Reliable Delivery Service")
 
-*   ### [Totally Reliable Delivery Service](./trds.md) **| MULTIPLAYER |**
+*   ### [Totally Reliable Delivery Service](./trds.md) 
 
 * * *
 
@@ -230,7 +196,7 @@ layout: default
 
 ![Counter-Strike: Source](./assets/css.jpg "Counter-Strike: Source")
 
-*   ### [Counter-Strike: Source](./css.md) **| MULTIPLAYER |**
+*   ### [Counter-Strike: Source](./css.md) 
 
 * * *
 
@@ -278,19 +244,13 @@ layout: default
 
 ![Human: Fall Flat](./assets/hff.jpg "Human: Fall Flat")
 
-*   ### [Human: Fall Flat](./hff.md) **| MULTIPLAYER |**
+*   ### [Human: Fall Flat](./hff.md) 
 
 * * *
 
 ![Little Inferno](./assets/li.jpg "Little Inferno")
 
 *   ### [Little Inferno](./li.md)
-
-* * *
-
-![ShellShock Live](./assets/ssl.jpg "ShellShock Live")
-
-*   ### [ShellShock Live](./ssl.md) **| MULTIPLAYER |**
 
 * * *
 
@@ -308,25 +268,13 @@ layout: default
 
 ![Green Hell](./assets/gh.jpg "Green Hell")
 
-*   ### [Green Hell](./gh.md) **| MULTIPLAYER |**
-
-* * *
-
-![Skullgirls 2nd Encore](./assets/sg2e.jpg "Skullgirls 2nd Encore")
-
-*   ### [Skullgirls 2nd Encore](./sg2e.md) **| MULTIPLAYER |**
-
-* * *
-
-![Surgeon Simulator 2](./assets/ss2.jpg "Surgeon Simulator 2")
-
-*   ### [Surgeon Simulator 2](./ss2.md) **| MULTIPLAYER |**
+*   ### [Green Hell](./gh.md) 
 
 * * *
 
 ![The Backrooms Survival](./assets/tbs.jpg "The Backrooms Survival")
 
-*   ### [The Backrooms Survival](./tbs.md) **| MULTIPLAYER |**
+*   ### [The Backrooms Survival](./tbs.md) 
 
 * * *
 
@@ -348,12 +296,6 @@ layout: default
 
 * * *
 
-![We Need To Go Deeper](./assets/wntgd.jpg "We Need To Go Deeper")
-
-*   ### [We Need To Go Deeper](./wntgd.md) **| MULTIPLAYER |**
-
-* * *
-
 ![Surgeon Simulator 1](./assets/ss1.jpg "Surgeon Simulator 1")
 
 *   ### [Surgeon Simulator 1](./ss1.md)
@@ -362,13 +304,13 @@ layout: default
 
 ![DiRT 3](./assets/d3.jpg "DiRT 3")
 
-*   ### [DiRT 3](./d3.md) **| MULTIPLAYER |**
+*   ### [DiRT 3](./d3.md) 
 
 * * *
 
 ![BIGFOOT](./assets/bigfoot.jpg "BIGFOOT")
 
-*   ### [BIGFOOT](./bigfoot.md) **| MULTIPLAYER |**
+*   ### [BIGFOOT](./bigfoot.md) 
 
 * * *
 
