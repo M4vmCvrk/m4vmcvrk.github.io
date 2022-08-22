@@ -9,68 +9,37 @@ layout: default
 
 * * *
 
-## TOTAL REWORK COMMING SOON
+<input type="text" id="SearchTxt" /><input type="button" id="SearchBtn" value="Search" onclick="doSearch(document.getElementById('SearchTxt').value)" />
+    <script>
+        function doSearch(text) {
+            if (window.find(text)) {
+                console.log(window.find(text));
+            }
+        }
+    </script>
 
 * * *
 
-## Simple Games
+## Games
 
-*   ### [Snake](./simple/snake.html)
+## COMMING SOON
 
-*   ### [Pong](./simple/pong.html)
-
-*   ### [Tetris](./simple/tetris.html)
-
-*   ### [Breakout](./simple/breakout.html)
-
-* * *
-
-## Advanced Games
-
-*   ### [Audio Dash](./advanced/audiodash/index.html)
-
-*   ### [JavaScript Racer](./advanced/javascript-racer/game.html)
-
-*   ### [Hextris](./advanced/hextris/index.html)
-
-*   ### [2048](./advanced/2048/index.html)
-
-*   ### [Mortal Kombat (ONLINE MULTIPLAYER)](./advanced/mortalkombat/game/index.html)
-
-*   ### [Chess](./advanced/chess/index.html)
-
-*   ### [Infinite Mario](./advanced/infinite-mario/main.html)
-
-*   ### [Tower Defense](./advanced/towerdefense/index.html)
-
-*   ### [Track Not Found](./advanced/track-not-found/index.html)
-
-*   ### [I Want To Google](./advanced/iwanttogoogle/index.html)
-
-*   ### [Q1k3](https://phoboslab.org/q1k3/)
-
-* * *
-
-## Construct Games
-
-*   ### [Pixel Speedrun](./construct/pixelsr.html)
-
-*   ### [Tank Trouble](./construct/tanktrouble.html)
-
-*   ### [Super Mario Bros](./construct/smb.html)
-
-*   ### [18 Second Challenge](./construct/18sc.html)
-
-*   ### [Mountain Bike Runner](./construct/mbr.html)
-
-*   ### [Wheelie Bike](./construct/wb.html)
-
-*   ### [Resume Run](./construct/rr.html)
-
-* * * 
+*   ### [](./games/.html)
 
 ```
 :)
 ```
 
 * * *
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+
+<script type="text/javascript">
+    //<![CDATA[
+        $(window).on('load', function() { // makes sure the whole site is loaded 
+            $('#status').fadeOut(); // will first fade out the loading animation 
+            $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website. 
+            $('body').delay(350).css({'overflow':'visible'});
+          })
+    //]]>
+</script>
