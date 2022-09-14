@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>M4vmCvrk Base64</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='http://fonts.googleapis.com/css?family=Sanchez' rel='stylesheet'>
+    <meta name="Version" content="v1.0.0" />
+    <meta title="Base 64 Decode Online, Decode 64 Base, JavaScript Base 64 Decode">
+    <meta description="Base 64 Decode :  Decode Your Code With Base 64 Decoding Online Tool Called Base64decodes.com, Utf-8, Ascii, Iso, Windows, Cp And Other Many Formatting Supported.">
+    <!-- favicon -->
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Main Css -->
+    <link href="style.css" rel="stylesheet" type="text/css" id="theme-opt" />
+    <meta name="google-site-verification" content="8Atji5uwrJaNz_gxm8occ_Amsozjrx6L6R786Wru88M" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-213148792-1');
+    </script>
+    <script src="tests.js"></script>
+    <script src="jquery.base64.js"></script>
+    <script src="export-data.js"></script>
+    <script src="base64.js"></script>
+    <script src="base64.jquery.json"></script>
+</head>
+
+<body>
+        <section class="main">
+            <div class="container-fluid ">
+                <div class="row justify-content-center">
+                    <!--<div class="col-lg-2 col-md-12 col-sm-12 sm-none">
+                        <div class="sidebar sticky-bar mt-40">
+                             <img src="image/side-image1.png" >
+                        </div>
+                    </div>--><!--end col-->
+                    <div class="col-lg-10 col-md-12 col-sm-12 second-col">
+                        <div class="row">
+                            <div class="col-lg-3 header">
+                                 <a class="logo" href="index.php">
+                                    <span>BASE64</span>
+                                    <h4>Decode and Encode</h4>
+                                </a>
+                            </div><!--end col-->
+                            <div class="col-lg-9 header">
+                               <nav>
+                                    <a href="" class="active"><i class="fa fa-folder-open" aria-hidden="true"></i> Decode</a>
+                                    <a href="" rel="external" class="mt-15"><i class="fa fa-folder" aria-hidden="true"></i>  Encode</a>
+                                </nav>
+                            </div><!--end col-->
+                            </header><!--end col-->
+                            <!--<div class="col-lg-12 ">
+                               <img src="image/nav-image.png" class="center-image responsive">
+                            </div>--><!--end col-->
+                            
+                        <div class="col-lg-12 col-md-12 col-sm-12 mb-4">
+                                <section>
+                        <h1>Base64 encode and decode</h1>
+                        <form method="post"  action="/index.php">
+                            <textarea name="decode" id="decode" placeholder="Paste text here to decode it" spellcheck="false"></textarea>
+                        </form>
+                        <textarea name="encode" id="encode" placeholder="Paste text here to encode it" spellcheck="false"></textarea>
+                        
+                        
+                    </section>
+                   <!--  <a href="#" class="switch"><i class="fa fa-mobile" aria-hidden="true"></i>
+                    Switch to mobile version</a> -->
+                    <footer>
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12"><i class="fa fa-copyright"></i>2021-2022 m4vmcvrk.github.io</div>
+                        </div>
+                    </footer>
+                            </div><!--end col-->
+                            <!--<div class="col-lg-2 mb-4 sm-none">
+                                <img src="image/side-image1.png" >
+                                <img src="image/side-image1.png" style="margin-top:20px;">
+                                <img src="image/side-image1.png" style="margin-top:20px;">
+                            </div>--><!--end col-->
+                        </div><!--end row-->
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+        </section>
+
+        <script src='http://code.jquery.com/jquery-1.9.1.min.js'></script>
+        <script src='jquery.base64.js'></script>
+        <script>
+            var dec = $('#decode'),
+                enc = $('#encode');
+    
+            // you can set utf8 encoding and decoding via global option
+            // possible options:
+            // `utf8encode` - utf8 encoding only (default: `false`)
+            // `utf8decode` - utf8 decoding only (default: `false`)
+            // `raw` - both (default: `true`)
+            $.base64.utf8encode = true;
+    
+            enc.keyup(function () {
+                dec.val($.base64.btoa(this.value));
+                // also possible:
+                // dec.val( $.base64('encode', this.value) );
+                // dec.val( $.base64.encode(this.value) );
+            });
+    
+    
+            dec.keyup(function () {
+                // note: you can pass a third parameter to use the utf8 en- / decode option
+                enc.val($.base64.atob(this.value, true));
+                // also possible:
+                // dec.val( $.base64('decode', this.value) );
+                // dec.val( $.base64.decode(this.value) );
+            });
+    
+            $('textarea').on('focus blur', function () {
+                $(this).prev('label').stop().fadeToggle(200);
+            });
+        </script>
+
+</body>
+</html>

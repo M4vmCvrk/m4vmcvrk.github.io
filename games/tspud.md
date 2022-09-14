@@ -16,7 +16,7 @@ The Stanley Parable Ultra Deluxe
 
 ## How to download:
 
-1. Download link is encrypted with Base64 , decode Base64 at [Base64 Decode](https://www.base64decode.org/)
+1. Download link is encrypted with Base64 , decode Base64 at [Base64 Decode](../b64/base64.html)
 
 2. Extract the game into a folder of your choice
 

@@ -4,7 +4,7 @@ layout: default
 
 * * *
 
-## Totally Reliable Delivery Service
+## Orc Massage
 
 * * *
 
@@ -12,7 +12,7 @@ layout: default
 
 * * *
 
-Totally Reliable Delivery Service
+Orc Massage
 
 ## How to download:
 
@@ -26,9 +26,9 @@ Totally Reliable Delivery Service
 
 5. Enjoy
 
-## Download: 
+## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWno1alJ3MUc0SDREUzRrMWNpczRmWTVuY1JySy1EN2ovdmlldz91c3A9c2hhcmluZw==
+(base64 encoded link)
 
 Rar password: M4vm1337
 

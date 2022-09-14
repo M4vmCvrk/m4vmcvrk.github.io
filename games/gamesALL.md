@@ -392,6 +392,18 @@ layout: default
 
 * * *
 
+![Orc Massage](./assets/orcmassage.jpg "Orc Massage")
+
+*   ### [Orc Massage](./orcmassage.md)
+
+* * *
+
+![The Mortuary Assistant](./assets/tma.jpg "The Mortuary Assistant")
+
+*   ### [The Mortuary Assistant](./tma.md)
+
+* * *
+
 ```
 :)
 ```
