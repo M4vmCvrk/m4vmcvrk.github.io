@@ -16,7 +16,7 @@ Orc Massage
 
 ## How to download:
 
-1. Download link is encrypted with Base64 , decode Base64 at [Base64 Decode](../b64/base64.html)
+1. Download link is encrypted with Base64 , decode Base64 at [Base64 Decode](https://www.base64decode.org/)
 
 2. Extract the game into a folder of your choice
 
@@ -28,7 +28,7 @@ Orc Massage
 
 ## Download:
 
-(base64 encoded link)
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xU2RES3dsX25jSGhBSEwta0NLRTNpS1JlUG9vUHZscUEvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 

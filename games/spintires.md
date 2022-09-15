@@ -4,7 +4,7 @@ layout: default
 
 * * *
 
-## SnowRunner
+## Spintires
 
 * * *
 
@@ -12,7 +12,7 @@ layout: default
 
 * * *
 
-SnowRunner
+Spintires
 
 ## How to download:
 
@@ -28,13 +28,9 @@ SnowRunner
 
 ## Download:
 
-**Part 1:**   aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRm1VV1FqdHJNSHNOYjBqczRrTllfTE9FcjY4bVo5N0Uvdmlldz91c3A9c2hhcmluZw==
-
-**Part 2:**   aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNmU2eEpoM29HdlpVc3BXMktYQmhlcWprT1ZkOVlPMmIvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbHRkczNNWmp6VXBKWThxVWNfazFubVRfclE4czNCaTgvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
-
-[If you dont know how to download multi-part games click here](./help.md)
 
 [Back](https://m4vmcvrk.github.io/)
 
