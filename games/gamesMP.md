@@ -194,6 +194,12 @@ layout: default
 
 * * *
 
+![Phasmophobia](./assets/phasmophobia.jpg "Phasmophobia")
+
+*   ### [Phasmophobia](./phasmophobia.md)
+
+* * *
+
 ```
 :)
 ```
