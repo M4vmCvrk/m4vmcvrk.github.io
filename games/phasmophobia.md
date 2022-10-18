@@ -28,7 +28,7 @@ Phasmophobia
 
 ## Download:
 
-aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbVlNaXR2TVpDMURVOGhOYnZ0NjAwVnVSeWVnQ0tocWwvdmlldz91c3A9c2hhcmluZw==
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTm9zOF9BRG9lUE1ZS05jWU1HSlVJRzlyQ01oU2N0b2wvdmlldz91c3A9c2hhcmluZw==
 
 Rar password: M4vm1337
 
