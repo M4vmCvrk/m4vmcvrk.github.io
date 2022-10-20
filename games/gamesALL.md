@@ -416,6 +416,18 @@ layout: default
 
 * * *
 
+![Farming Simulator 19](./assets/farmingsim19.jpg "Farming Simulator 19")
+
+*   ### [Farming Simulator 19](./farmingsim19.md) **| MULTIPLAYER |**
+
+* * *
+
+![DEVOUR](./assets/devour.jpg "DEVOUR")
+
+*   ### [DEVOUR](./devour.md) **| MULTIPLAYER |**
+
+* * *
+
 ```
 :)
 ```

@@ -11,13 +11,13 @@ layout: default
 
 *   ## [Download games](/games/gamesALL.md)
 
-*   ## [Decode & Encode Base64](/b64/base64.html)
-
 * * *
 
 ## UNFINISHED
 
 *   ## [Browser games](/browser/games.md)
+
+*   ## [Decode & Encode Base64](/b64/base64.html)
 
 * * *
 
