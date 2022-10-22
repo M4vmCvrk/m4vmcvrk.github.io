@@ -198,17 +198,9 @@ layout: default
 
 *   ### [Phasmophobia](./phasmophobia.md)
 
-![Farming Simulator 19](./assets/farmingsim19.jpg "Farming Simulator 19")
-
-*   ### [Farming Simulator 19](./farmingsim19.md)
-
-* * *
-
 ![DEVOUR](./assets/devour.jpg "DEVOUR")
 
 *   ### [DEVOUR](./devour.md)
-
-* * *
 
 * * *
 

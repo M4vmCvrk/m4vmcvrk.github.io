@@ -418,7 +418,7 @@ layout: default
 
 ![Farming Simulator 19](./assets/farmingsim19.jpg "Farming Simulator 19")
 
-*   ### [Farming Simulator 19](./farmingsim19.md) **| MULTIPLAYER |**
+*   ### [Farming Simulator 19](./farmingsim19.md)
 
 * * *
 
