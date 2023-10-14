@@ -4,7 +4,7 @@ layout: default
 
 * * *
 
-## hello and welocome
+## hello and welcoome
 
 * * *
 
