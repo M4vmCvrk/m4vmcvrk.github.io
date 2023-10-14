@@ -10,8 +10,8 @@ layout: default
 
 good job , i hope youre not getting bored !
 
-itMriEw1kt0=
+Ky9kKI5bmyQ=
 
-this is a 3 step encryprtion , dont worry i didnt use any new ones just the ones we had before !
+this is double encryprtion , dont worry i didnt use any new ones just the ones we had before !
 
 * * *
