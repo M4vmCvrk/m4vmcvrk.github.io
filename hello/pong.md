@@ -11,7 +11,7 @@ layout: default
 ```
 HAI 1.2
 CAN HAS STDIO?
-PLZ OPEN FILE "LOLCATS.TXT"?
+PLZ OPEN FILE "lolcats.txt"?
     AWSUM THX
         VISIBLE FILE
     O NOES
@@ -19,5 +19,7 @@ PLZ OPEN FILE "LOLCATS.TXT"?
 BTW "YOURE DOING GREAT!"
 KTHXBYE
 ```
+
+<!--- open file lolcats.txt in link -->
 
 * * *
