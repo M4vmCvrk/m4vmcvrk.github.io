@@ -5,7 +5,7 @@ layout: default
 * * *
 
 *   # M4vmCvrk
-## Welcome to my videogame archive !
+## Welcome
 
 * * *
 
@@ -13,16 +13,8 @@ layout: default
 
 * * *
 
-## UNFINISHED
+## ???
 
-*   ## [Browser games](/browser/games.md)
-
-*   ## [Decode & Encode Base64](/b64/base64.html)
-
-* * *
-
-```
-:)
-```
+*   ## [???](/hello/start.md)
 
 * * *
