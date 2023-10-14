@@ -14,6 +14,6 @@ take a break and solve for X
 
 https://m4vmcvrk.github.io/hello/X
 
-![Solve for X](code2.jpg "Solve for X")
+![Solve for X](./code2.jpg "Solve for X")
 
 * * *
