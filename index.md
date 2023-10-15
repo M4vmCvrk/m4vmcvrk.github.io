@@ -9,10 +9,6 @@ layout: default
 
 * * *
 
-*   ## [Download games](/games/gamesALL.md)
-
-* * *
-
 ## ???
 
 *   ## [???](/hello/start.md)
